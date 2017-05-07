@@ -1,0 +1,19 @@
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\bin\Debug\PanelDesignerNG.exe
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\bin\Debug\PanelDesignerNG.pdb
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.Form1.resources
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.Properties.Resources.resources
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.exe
+C:\Users\VIGO System\AppData\Local\Temporary Projects\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.pdb
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.exe
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.pdb
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.Form1.resources
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.Properties.Resources.resources
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\bin\Debug\PanelDesignerNG.exe
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\bin\Debug\PanelDesignerNG.pdb
+D:\private\Projekty PC\PanelDesignerNG\PanelDesignerNG\obj\x86\Debug\PanelDesignerNG.WindowObjectBrowser.resources
